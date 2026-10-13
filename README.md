@@ -1149,6 +1149,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 - [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
 - [Sure](https://github.com/we-promise/sure) - Open Source and secure OS for your personal finances. Community maintained fork of the archived [Maybe](https://github.com/maybe-finance/maybe) project.
 - [ezBookkeeping](https://ezbookkeeping.mayswind.net/) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
+- [shmoney](https://github.com/rafeautie/shmoney) - Desktop personal finance app that keeps budgets, goals, reports and bank sync in one local SQLite file, with no account, no telemetry and an on-device AI model; an offline alternative to Mint and YNAB. AGPL-3.0, Windows, macOS and Linux.
 
 ### Budget Management
 - [ProExpense](https://github.com/arduia/ProExpense/) - A simple free finance note to safely record daily expenses.
